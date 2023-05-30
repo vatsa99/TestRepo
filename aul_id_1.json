@@ -1,10 +1,10 @@
 {
     "Headnode":{
-        "id":"1",
+        "id":"4",
         "VM1":{
             "Control":[{
-                "Name": "test1",
-                "Altair Control Server": "test1",
+                "Name": "test4",
+                "Altair Control Server": "test4",
                 "Version": "test1",
                 "Installation Directory": "test1",
                 "Components Enabled": "test1",
