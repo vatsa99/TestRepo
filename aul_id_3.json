@@ -1,0 +1,60 @@
+{
+    "Headnode":{
+        "id":"3",
+        "VM1":{
+            "Control":[{
+                "Name": "test3",
+                "Altair Control Server": "test3",
+                "Version": "test3",
+                "Installation Directory": "test3",
+                "Components Enabled": "test3",
+                "Service User": "test3",
+                "License Server": "test3",
+                "Customization": "test3"
+            }],
+            "Provision":[{
+                "Name": "test3",
+                "Altair Control Server": "test3",
+                "Version": "test3",
+                "Installation Directory": "test3",
+                "Components Enabled": "test3",
+                "Service User": "test3",
+                "License Server": "test3",
+                "Customization": "test3"
+            }]
+        },
+        "VM2":{
+            "PBSPRO":[{
+                "Name": "test3",
+                "Installation Architecture": "test3",
+                "Primary Server": "test3",
+                "Secondary/Standby Server": "test3",
+                "Pbs Version": "test3",
+                "Dataservice User": "test3",
+                "Pbs_Home": "test3",
+                "Pbs_Exec": "test3",
+                "Scheduling Policy": "test3",
+                "Server Configuration": "test3",
+                "Queue Configuration": "test3"
+            }],
+            "Access":[{
+                "Name": "test3",
+                "AA Server": "test3",
+                "Version": "test3",
+                "Installation Path": "test3",
+                "Authentication Server": "test3",
+                "License Server": "test3",
+                "Stage Root": "test3",
+                "Dir Access Allowed In Portal": "test3",
+                "Portal/Pas Admin User": "test3",
+                "Modern Communication Install Path": "test3",
+                "URL To Access Portal": "test3",
+                "No Of Concurrent Users": "test3"
+            }]
+        },
+        "License Server":{}
+    },
+    "Cn001":{},
+    "Cn002":{},
+    "gn001":{}
+}

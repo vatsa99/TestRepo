@@ -1,0 +1,60 @@
+{
+    "Headnode":{
+        "id":"2",
+        "VM1":{
+            "Control":[{
+                "Name": "test",
+                "Altair Control Server": "test",
+                "Version": "test",
+                "Installation Directory": "test",
+                "Components Enabled": "test",
+                "Service User": "test",
+                "License Server": "test",
+                "Customization": "test"
+            }],
+            "Provision":[{
+                "Name": "test",
+                "Altair Control Server": "test",
+                "Version": "test",
+                "Installation Directory": "test",
+                "Components Enabled": "test",
+                "Service User": "test",
+                "License Server": "test",
+                "Customization": "test"
+            }]
+        },
+        "VM2":{
+            "PBSPRO":[{
+                "Name": "test",
+                "Installation Architecture": "test",
+                "Primary Server": "test",
+                "Secondary/Standby Server": "test",
+                "Pbs Version": "test",
+                "Dataservice User": "test",
+                "Pbs_Home": "test",
+                "Pbs_Exec": "test",
+                "Scheduling Policy": "test",
+                "Server Configuration": "test",
+                "Queue Configuration": "test"
+            }],
+            "Access":[{
+                "Name": "test",
+                "AA Server": "test",
+                "Version": "test",
+                "Installation Path": "test",
+                "Authentication Server": "test",
+                "License Server": "test",
+                "Stage Root": "test",
+                "Dir Access Allowed In Portal": "test",
+                "Portal/Pas Admin User": "test",
+                "Modern Communication Install Path": "test",
+                "URL To Access Portal": "test",
+                "No Of Concurrent Users": "test"
+            }]
+        },
+        "License Server":{}
+    },
+    "Cn001":{},
+    "Cn002":{},
+    "gn001":{}
+}
